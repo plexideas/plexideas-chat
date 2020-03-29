@@ -1,9 +1,9 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyC-LMCCsF-Dlg7Ftkec28hP27fqwfGa_JM",
-  authDomain: "plexideas-chat.firebaseapp.com",
-  databaseURL: "https://plexideas-chat.firebaseio.com"
+  apiKey: "YOUR FIREBASE CREDENTIAL",
+  authDomain: "YOUR FIREBASE CREDENTIAL",
+  databaseURL: "YOUR FIREBASE CREDENTIAL"
 };
 
 firebase.initializeApp(config);
